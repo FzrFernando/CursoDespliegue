@@ -21,3 +21,6 @@ Práctica sobre Práctica Moodle:
 
 Práctica sobre Ruby On Rails:
 -En esta actividad encontrarás un pdf de como desplegar una web con Ruby, todo paso a paso.
+
+Práctica sobre Ediciones Java:
+-En esta actividad encontrarás una explicación de que es Java y de las ediciones que tiene.
